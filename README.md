@@ -1,4 +1,4 @@
-![](https://github.com/akmalov11c/akmalov11c/blob/main/cover_image.png)
+<!-- ![](https://github.com/akmalov11c/akmalov11c/blob/main/cover_image.png) -->
 
 # 👋 Hello, World! I'm Sardor
 
@@ -14,16 +14,6 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS
 - **Tools:** Git, Webpack, Gulp, npm/yarn, VS Code
 - **Design:** Figma, Sketch
-
-## 🛠️ What I'm Working On
-- Building projects that solve real-world problems and improve user experiences.
-- Exploring new frontend technologies and techniques to stay ahead of the curve.
-- Collaborating with peers on open-source initiatives to contribute and learn from the community.
-
-## ✨ Fun Facts About Me
-- I once built a personal website using only CSS (just for fun!).
-- I'm a self-taught developer, originally starting my journey with a curiosity for animation and graphics.
-- When I’m not coding, you’ll find me sketching, playing video games, or exploring the great outdoors.
 
 ## 📚 Learning & Growing
 - Enhancing my knowledge of advanced JavaScript patterns and best practices.
