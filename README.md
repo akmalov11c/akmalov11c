@@ -32,10 +32,11 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 
 ## 🌟 Let’s Connect!
 
-<a href="https://akmalov11c.uz/" style="background-color:#4CAF50;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;">Portfolio</a>
-<a href="[your-linkedin-link.com](https://www.linkedin.com/in/sardor-akmalovich-a95188287/)" style="background-color:#0077B5;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;">LinkedIn</a>
-<a href="[your-twitter-link.com](https://www.frontendmentor.io/profile/akmalov11c)" style="background-color:#1DA1F2;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;">Frontend Mentor</a>
-<a href="mailto:akmalov1c09@gmail.com" style="background-color:#FF0000;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;">Email</a>
+[Portfolio](your-portfolio-link.com){: style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;"}
+[LinkedIn](your-linkedin-link.com){: style="background-color:#0077B5;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;"}
+[Twitter](your-twitter-link.com){: style="background-color:#1DA1F2;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;"}
+[Email](mailto:your-email@example.com){: style="background-color:#FF0000;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;"}
+
 
 
 Let's create something extraordinary together. Happy coding! 🚀
