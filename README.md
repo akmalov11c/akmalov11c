@@ -32,7 +32,7 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 
 ## 🌟 Let’s Connect!
 
-[Portfolio](your-portfolio-link.com) | [LinkedIn](your-linkedin-link.com) | [Twitter](your-twitter-link.com) | [Email](mailto:your-email@example.com)
+[Portfolio](https://akmalov11c.uz/) | [LinkedIn](https://www.linkedin.com/in/sardor-akmalovich-a95188287/) | [Frontend Mentor](https://www.frontendmentor.io/profile/akmalov11c) | [Email](mailto:akmalov1c09@gmail.com)
 
 
 Let's create something extraordinary together. Happy coding! 🚀
