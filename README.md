@@ -1,4 +1,4 @@
-!(https://github.com/akmalov11c/akmalov11c/blob/main/_Cover-img-github.png)
+(https://github.com/akmalov11c/akmalov11c/blob/main/_Cover-img-github.png)
 
 # 👋 Hello, World! I'm Sardor
 
