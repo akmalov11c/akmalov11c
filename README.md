@@ -37,9 +37,9 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 
 Let's create something extraordinary together. Happy coding! 🚀
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmalov11c&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmalov11c&show_icons=true&theme=radical) -->
 
 ## Top Languages
 
