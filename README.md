@@ -36,3 +36,7 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 
 
 Let's create something extraordinary together. Happy coding! 🚀
+
+## GitHub Stats
+
+[![Akmalov11c's GitHub stats](https://github-readme-stats.vercel.app/api?akmalov11c=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
