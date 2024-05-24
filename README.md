@@ -32,10 +32,11 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 
 ## 🌟 Let’s Connect!
 
-[Portfolio](your-portfolio-link.com){: style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;"}
-[LinkedIn](your-linkedin-link.com){: style="background-color:#0077B5;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;"}
-[Twitter](your-twitter-link.com){: style="background-color:#1DA1F2;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;"}
-[Email](mailto:your-email@example.com){: style="background-color:#FF0000;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;"}
+<a href="your-portfolio-link.com" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;">Portfolio</a>
+<a href="your-linkedin-link.com" style="background-color:#0077B5;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;">LinkedIn</a>
+<a href="your-twitter-link.com" style="background-color:#1DA1F2;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;margin-right:10px;">Twitter</a>
+<a href="mailto:your-email@example.com" style="background-color:#FF0000;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">Email</a>
+
 
 
 
