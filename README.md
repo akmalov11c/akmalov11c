@@ -39,4 +39,9 @@ Let's create something extraordinary together. Happy coding! 🚀
 
 ## GitHub Stats
 
-[![Akmalov11c's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalov11c)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmalov11c&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalov11c&layout=compact&theme=radical)
+
