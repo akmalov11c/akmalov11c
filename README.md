@@ -1,3 +1,5 @@
+!(https://github.com/akmalov11c/akmalov11c/blob/main/_Cover-img-github.png)
+
 # 👋 Hello, World! I'm Sardor
 
 Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weaving the web one pixel at a time.
