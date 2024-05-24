@@ -1,4 +1,4 @@
-![](https://github.com/akmalov11c/akmalov11c/blob/main/cover-github.png)
+![](https://github.com/akmalov11c/akmalov11c/blob/main/cover_image.png)
 
 # 👋 Hello, World! I'm Sardor
 
