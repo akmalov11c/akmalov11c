@@ -39,4 +39,4 @@ Let's create something extraordinary together. Happy coding! 🚀
 
 ## GitHub Stats
 
-[![Akmalov11c's GitHub stats](https://github-readme-stats.vercel.app/api?akmalov11c=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Akmalov11c's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalov11c)](https://github.com/anuraghazra/github-readme-stats)
