@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! I’m a Frontend Developer from Uzbekistan, weav
 - 🔍 An eternal learner, constantly exploring new technologies and design trends.
 
 ## 💡 My Toolkit
-- **Languages:** HTML, CSS, JavaScript, Python, Learning TypeScript ⌛
+- **Languages:** HTML, CSS, JavaScript, Python, TypeScript 
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS
 - **Tools:** Git, Webpack, Gulp, npm/yarn, VS Code
 - **Design:** Figma, Sketch
